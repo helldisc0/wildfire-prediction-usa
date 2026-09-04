@@ -34,7 +34,7 @@ early warning and resource allocation decisions.
 - Google Colab
 
 ## Data Source
-[US Wildfire Records Dataset] ← add your source link
+[US Wildfire Records Dataset]
 
 ## Methodology Note
 Model relies solely on historical fire records without 
