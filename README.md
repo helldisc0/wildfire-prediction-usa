@@ -42,4 +42,4 @@ vegetation data — factors that would likely improve
 predictive accuracy in a production setting.
 
 ## Project Preview
-Download `.html` file from the repository.
+Rendered Quarto report can be seen and downloaded as `.html` file from the repository.
