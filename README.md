@@ -30,8 +30,7 @@ early warning and resource allocation decisions.
 - Seasonal trend analysis
 
 ## Tools Used
-- Python (pandas, matplotlib, scikit-learn)
-- Google Colab
+- R, Quarto (tidyverse, ggplot2, randomForest, etc.)
 
 ## Data Source
 [US Wildfire Records Dataset]
